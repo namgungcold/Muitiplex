@@ -13,5 +13,5 @@
 ## Main Page_2 ##
 사진을 넣으면 원하는 목록으로 변환이 되며 그 사진은 다운 받을 수 있습니다.
 ![멀플서공제 제출사진용](https://github.com/user-attachments/assets/0f56240e-5418-44bc-bb2d-7dfac429e5e2)
-
+영상도 삽입할 수 있습니다. (*그러나 용량이 너무 큰 영상은 변환 혹은 다운로드가 안될 수 있습니다.)
 ![멀플서공제 제출사진용1](https://github.com/user-attachments/assets/9518be1f-0e84-4172-b8da-860187561945)
